@@ -7,7 +7,7 @@ const figlet = require("figlet");
 var colors = require('colors');
 const program = new Command();
 program
-    .version("1.0.0")
+    .version("0.1.0")
     .description("A CLI for Graphql Server using 'yoga', 'prisma', 'postgres'.");
 program.command('new')
     .description('Create new project in current directory')
