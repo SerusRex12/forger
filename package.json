@@ -13,7 +13,7 @@
     "postbuild": "npm run copyMySpecialFiles"
   },
   "keywords": [],
-  "author": "",
+  "author": "Francis Ely Anthony Reyes",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
